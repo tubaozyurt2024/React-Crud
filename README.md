@@ -21,7 +21,7 @@ This project is a simple **CRUD (Create, Read, Update, Delete)** application bui
 ```bash
 git clone https://github.com/your-username/react-crud-app.git
 cd react-crud-app
-   
+```   
 2. **Install dependencies**:
 ```bash
 npm install
