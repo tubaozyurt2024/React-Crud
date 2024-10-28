@@ -18,9 +18,9 @@ This project is a simple **CRUD (Create, Read, Update, Delete)** application bui
 ## Getting Started
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/react-crud-app.git
-   cd react-crud-app
+```bash
+git clone https://github.com/your-username/react-crud-app.git
+cd react-crud-app
    
 2. **Install dependencies**:
 ```bash
